@@ -1,0 +1,42 @@
+body    {
+    background-color: #00e6e6;
+    color: #ffffff;
+}
+p   {
+    font-family: Lucida;
+    font-size: 30 px;
+
+}
+li  {
+    font-family: Palatino Linotype;
+
+}
+ul  {
+    font-family: Lucida Grande;
+    font-size: 18 px;
+    color: #595959;
+}
+
+a:link    {
+    text-decoration: none;
+    color: #000033;
+}
+a:hover   {
+    font-weight: bold;
+    color: #ffffff;
+}
+a:visited  {
+    color: black;
+}
+img {
+    border: 1px solid #000080;
+}
+.Selection  {
+    text-weight: bold;
+    font-size: 25 px;
+
+}
+
+#best   {
+    color: black;
+}
